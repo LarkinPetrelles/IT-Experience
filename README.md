@@ -1,7 +1,7 @@
 # Larkin Petrelles | AWS Cloud Engineer
 <a href="https://www.linkedin.com/in/larkin-petrelles-591a05174/" ><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-**CompTIA Security+ Certified | AWS Certified Cloud Practitioner (CCP) | AWS Solutions Architect Associate (SAA) Candidate**
+**CompTIA Security+ Certified | AWS Certified Cloud Practitioner (CCP) | AWS Solutions Architect Associate (SAA)**
 
 ---
 
