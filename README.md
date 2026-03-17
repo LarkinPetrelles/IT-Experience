@@ -58,9 +58,3 @@ Confirms broad IT operations and security testing knowledge.
 * Penetration Testing Tools: Kali Linux, Zenmap/Nmap, OpenVAS, Metasploit Framework
 
 ---
-
-## Next Steps: Mastering AWS Security Automation
-
-- Automate infrastructure provisioning using Terraform or CloudFormation (IaC).
-- Implement centralized logging/monitoring for threat detection using AWS services like CloudWatch, GuardDuty, and Security Hub.
-- Build an automated, secure CI/CD pipeline leveraging AWS CodeCommit/CodePipeline.
