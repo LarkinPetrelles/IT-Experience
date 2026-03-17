@@ -1,60 +1,135 @@
 # Larkin Petrelles | Security/Cloud Analyst
 <a href="https://www.linkedin.com/in/larkin-petrelles-591a05174/" ><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-**CompTIA Security+ Certified | AWS Certified Cloud Practitioner (CCP) | AWS Solutions Architect Associate (SAA)**
+CompTIA Security+ | AWS Certified Cloud Practitioner | AWS Solutions Architect Associate  
 
 ---
 
-Transitioning from an industry I spent five years in sounds like it may be hard (which it was), but the mortgage business has prepared me for anything. I first started as a Loan Partner after moving back home during COVID when I was 22. It gave me the opportunity to work with thousands of people buying their first (or fifth) home. There were many trials and earning my clients trust with their financing was nerve-wracking at first. However, it was where I genuinely came into my own as a professional and gave me the confidence I needed to succeed in anything I set my sights on. This experience ultimately sparked my transition to Cloud and IT. The cloud is the foundation of our evolving world but also a complex system that needs protection. I realized I wanted to build a challenging career in my own way, dedicated to mastering these systems and making this path my own. That background in finance directly fostered the relentless attention to detail, ability to succeed under pressure, and strong client-facing skills that are essential to being an effective Cloud Engineer.
+## About Me
 
+I transitioned from the mortgage industry into cloud and security, bringing strong attention to detail, client facing communication, and the ability to operate under pressure.
 
----
+What started as curiosity turned into hands on work across vulnerability management, system administration, and cloud infrastructure. I have built and secured environments across Windows, Linux, Azure, and AWS, focusing on real world security workflows such as vulnerability remediation, system hardening, and detection.
 
-## AWS Cloud Security & Infrastructure Portfolio
-
-Projects demonstrating core competency in AWS services, security controls, and cloud governance.
-
-### 1. AWS EC2 Security Hardening & Network Segmentation
-**Objective:** Deploy and secure Linux instances within AWS while enforcing network control.
-
-**Summary:** Secured and managed AWS EC2 Linux instances. Designed VPC segmentation and ensured resource isolation by performing CIDR/Subnetting calculations. Confirmed competence in secure resource management and hypervisor security principles.
-
-### 2. Multi-Cloud Governance & Financial Operations (FinOps)
-*Demonstrates architectural design, compliance, and cost control.*
-
-**Objective:** Design a cloud adoption strategy and conduct financial analysis for cost-effective, compliant deployment.
-
-**Summary:** Performed FinOps cost optimization, modeling two pricing structures and providing a recommendation that reduced potential annual expenses by over **$270K**. Designed a governance structure (Azure Management Groups/Resource Groups) to enforce policy and ensure compliance standards (e.g., FedRAMP). Documented advanced networking concepts: SDN and IBN.
-
-### 3. AWS Linux Server Deployment & Log Analysis
-**Objective:** Deploy a secure Linux Server in AWS and simulate a threat detection workflow.
-
-**Summary:** Provisioned an AWS EC2 Linux instance and configured security rules. Key deliverable was parsing Apache logs to detect and analyze suspicious scan activity, confirming foundational threat logging and detection skills.
+This page is a portfolio of that work.
 
 ---
 
-## Skills Highlight
+## Featured Projects
 
-| Category | Key Proficiencies |
-| :--- | :--- |
-| **Security & Compliance** | Security Groups, IAM Permissions, Access Controls (ACLs/UFW), Log Analysis, Penetration Testing. |
-| **AWS Cloud** | EC2, VPC Networking (CIDR/Subnetting), Security Groups, Instance Lifecycle. |
-| **Architecture & FinOps** | Cloud Governance, Cost Modeling, Hybrid Deployment Strategy. |
-| **System Admin & Tools** | Linux Server, Active Directory, Bash Scripting, Virtualization, Nmap, OpenVAS, Metasploit. |
+### Vulnerability Management Program (Tenable + Azure)
+Full vulnerability management lifecycle including authenticated scanning, remediation, and validation across Windows systems.
+
+• Conducted authenticated Tenable scans using DISA STIG templates  
+• Remediated critical, high, and medium vulnerabilities using PowerShell  
+• Hardened SSL/TLS protocols, removed vulnerable software, and enforced least privilege  
+• Validated remediation through multiple scan cycles  
+
+→ https://github.com/LarkinPetrelles/Vulnerability-Management-Program  
 
 ---
 
-## Foundational IT & Security Experience
+### AWS Multi Tier Infrastructure (Terraform)
+Infrastructure as code project deploying a segmented AWS environment using Terraform.
 
-Confirms broad IT operations and security testing knowledge.
+• Built VPC architecture with subnets and routing  
+• Deployed compute resources with security group controls  
+• Applied infrastructure level security and isolation  
+• Demonstrated repeatable and scalable cloud deployment  
 
-### Projects
-* Domain Controller & Active Directory Setup: Centralized authentication, user management, and policy application.
-* Red Team Penetration Testing: Simulated penetration test against a vulnerable target, including reconnaissance and exploitation.
+→ https://github.com/LarkinPetrelles/aws-multi-tier-terraform  
 
-### Tools & Technologies
-* Operating Systems: Linux (Ubuntu), Windows Server
-* Directory Services: Active Directory Domain Services, Group Policy
-* Penetration Testing Tools: Kali Linux, Zenmap/Nmap, OpenVAS, Metasploit Framework
+---
+
+## IT & Security Lab Experience
+
+This section represents hands on work completed across system administration, networking, and security testing. A dedicated repository is being built to document these environments in full detail.
+
+### Active Directory & Domain Controller Lab
+• Deployed Windows Server 2022 Domain Controller  
+• Configured Active Directory, users, and group policies  
+• Joined Windows 11 clients to domain  
+• Enforced security policies and administrative controls  
+
+---
+
+### Network & Virtualization Lab
+• Built virtual lab environment using VirtualBox  
+• Configured VLANs and static IP addressing  
+• Established network segmentation between systems  
+• Simulated enterprise style network structure  
+
+---
+
+### Linux & System Administration
+• Deployed and configured Ubuntu Linux systems  
+• Performed package management and system updates  
+• Configured user permissions and access controls  
+• Secured systems through configuration hardening  
+
+---
+
+### Vulnerability Scanning & Remediation
+• Conducted authenticated and unauthenticated scans using Tenable  
+• Identified vulnerabilities using CVSS scoring  
+• Remediated findings across Windows and Linux systems  
+• Validated results through follow up scans  
+
+---
+
+### Red Team / Penetration Testing Lab
+• Performed reconnaissance using Nmap and Zenmap  
+• Conducted vulnerability scanning with OpenVAS  
+• Exploited services using Metasploit  
+• Gained system access and performed data exfiltration exercises  
+
+---
+
+## AWS Cloud Security & Infrastructure Projects
+
+### EC2 Security Hardening & Network Segmentation
+• Designed VPC segmentation using CIDR and subnetting  
+• Configured security groups and network isolation  
+• Secured Linux instances at OS and network level  
+
+---
+
+### Multi Cloud Governance & FinOps
+• Modeled cloud cost structures and reduced projected spend by $270K  
+• Designed governance using Azure Management Groups and Resource Groups  
+• Applied compliance considerations including FedRAMP alignment  
+
+---
+
+### Linux Server Deployment & Log Analysis
+• Deployed AWS EC2 Linux server  
+• Configured Apache and security controls  
+• Parsed logs to detect suspicious activity  
+• Simulated threat detection workflow  
+
+---
+
+## Skills
+
+**Security**  
+Vulnerability Management, System Hardening, Access Control, Log Analysis, Penetration Testing  
+
+**Cloud**  
+AWS (EC2, VPC, Security Groups), Azure Virtual Machines  
+
+**Systems**  
+Linux, Windows Server, Active Directory, Virtualization  
+
+**Tools**  
+Tenable, Nmap, OpenVAS, Metasploit, PowerShell, Bash  
+
+---
+
+## Current Focus
+
+• Vulnerability Management and remediation workflows  
+• Cloud security in AWS and Azure  
+• Infrastructure as Code using Terraform  
+• Detection and monitoring fundamentals  
 
 ---
