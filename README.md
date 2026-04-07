@@ -17,6 +17,20 @@ This page is a portfolio of that work.
 
 ## Featured Projects
 
+Threat Hunting & Detection (Microsoft Sentinel)
+
+End to end threat hunting investigation simulating a full Active Directory compromise, including credential access, lateral movement, persistence, and data exfiltration.
+
+• Identified LSASS credential dumping activity through log analysis  
+• Tracked lateral movement using native Windows tools (net use, admin shares)  
+• Detected data staging and exfiltration using rclone to external infrastructure (MEGA)  
+• Correlated multi stage attacker behavior using KQL in Microsoft Sentinel  
+• Mapped activity to real world attack patterns and post exploitation techniques  
+
+→ https://github.com/LarkinPetrelles/EmberForge-Threat-Hunt
+
+---
+
 ### Vulnerability Management Program (Tenable + Azure)
 Full vulnerability management lifecycle including authenticated scanning, remediation, and validation across Windows systems.
 
