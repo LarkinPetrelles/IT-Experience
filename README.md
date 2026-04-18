@@ -17,7 +17,9 @@ This page is a portfolio of that work.
 
 ## Featured Projects
 
-Threat Hunting & Detection (Microsoft Sentinel)
+---
+
+### Threat Hunting & Detection (Microsoft Sentinel)
 
 End to end threat hunting investigation simulating a full Active Directory compromise, including credential access, lateral movement, persistence, and data exfiltration.
 
